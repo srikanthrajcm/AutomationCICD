@@ -38,6 +38,7 @@ public class StandAloneTest extends BaseTest{
 		// TODO Auto-generated method stub
 
 	//	String productName = "ZARA COAT 3";
+		// new comments added1
 	
 		ProductCatalogue productCatalogue = LandingPage.loginApplication(input.get("email"),input.get("password"));
 		
